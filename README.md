@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-# Project-2
-A web application for calculating student loan.
-Run and tested on tomcat 8.
-Used Model-Viewer-Controller programming model.
-The servlet Start.java will test the request whether is fresh visit.
-Two different UIs, UI.jpsx and Result.jpsx, for calculator input and output.
-It also saves the max principal ever entered by client.
-Input validation handled by JavaScript.
-And exception handling in Servlet and model class invoked.
-There is a filter to prevent frequent requests.
-=======
 # OnlineBookStore
 It is a online book store sample built by JavaEE, running on a tomcat 8.
 
@@ -39,4 +27,3 @@ password: Partner
 MainPage URL:http://localhost:8080/WinterProject/Start
 
  Make sure your project has a JAX-RS facet (right click your project and go to properties, verify the JAX-RS is checked under project facets)
->>>>>>> origin/master
